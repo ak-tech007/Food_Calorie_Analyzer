@@ -4,6 +4,10 @@ This project uses the power of **Google's Gemini Vision API** to analyze food im
 
 ---
 
+
+https://github.com/user-attachments/assets/e6a1c0a3-8c00-42ac-8212-83569bb93fac
+
+
 ## 🚀 Features
 
 - 🔍 Detect food items from images using Google Gemini (multimodal vision model)
